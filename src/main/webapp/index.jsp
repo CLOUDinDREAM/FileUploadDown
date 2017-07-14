@@ -7,6 +7,7 @@
   </head>
   
   <body>
+  change
     <form action="${basePathUrl}file/uplaodServlet" enctype="multipart/form-data" method="post">
         上传用户：<input type="text" name="username"><br/>
         上传文件1：<input type="file" name="file1"><br/>
